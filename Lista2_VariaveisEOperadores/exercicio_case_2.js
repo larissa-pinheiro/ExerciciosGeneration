@@ -85,4 +85,4 @@ function calculaReajuste(reajuste) {
   novoSalario = salario + (reajuste * salario)
 }
 
-console.log(`Salário: R$ ${novoSalario}`)
+console.log(`Salário: R$ ${novoSalario.toFixed(2)}`)
