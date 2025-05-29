@@ -7,7 +7,6 @@ Entrada e Saída de dados
 Operadores
 Laço Condicional IF */
 
-
 const leia = require('readline-sync');
 
 let A = leia.questionInt('Digite o valor de A: ');
